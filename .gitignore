@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Data & Models
+data/raw/*
+!data/raw/README.md
+models/
+reports/
+plots/
+
+# OS files
+.DS_Store
